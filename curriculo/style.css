@@ -1,0 +1,33 @@
+body {
+   background-image: url("background.jpg");
+   background-repeat: no-repeat;
+   background-position: center ;
+   background-attachment: fixed ;
+   background-size: cover;
+}
+
+h1 {
+  color: #780000;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  margin: 0%;
+}
+
+a {
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+h1 {
+    border-style: solid;
+    border-color:#003049 ;
+}
+ul {
+    font-family: verdana;
+    font-size: 20px;
+    margin: 0%;
+}
